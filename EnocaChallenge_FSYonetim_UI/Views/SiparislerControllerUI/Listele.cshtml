@@ -1,0 +1,72 @@
+﻿@model List<EnocaChallenge_FSYonetim_UI.Models.FSYonetim.SiparisModals>
+
+@{
+    ViewData["Title"] = "Listele";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+<div class="content container-fluid">
+    <!-- Page Header -->
+    <div class="page-header">
+        <div class="row align-items-end">
+            <div class="col-sm mb-2 mb-sm-0">
+
+                <h1 class="page-header-title">Siparişler</h1>
+
+                <!-- Card -->
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h6 class="card-subtitle mb-2">Toplam Sipariş Sayısı</h6>
+
+                        <div class="row align-items-center gx-2">
+                            <div class="col">
+                                <span class="js-counter display-4 text-dark" data-value="@Model.Count">@Model.Count</span>
+                            </div>
+                            <!-- End Col -->
+                            <!-- End Col -->
+                        </div>
+                        <!-- End Row -->
+                    </div>
+                </div>
+                <!-- End Card -->
+            </div>
+
+            <!-- End Col -->
+            <!-- End Col -->
+        </div>
+        <!-- End Row -->
+    </div>
+
+    <div class="card">
+
+        <!-- Table -->
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Firma Id</th>
+                    <th scope="col">Ürün Id</th>
+                    <th scope="col">Veren Kişi</th>
+                    <th scope="col">Sipariş Tarihi</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">#</th>
+                        <td>@item.FirmaId</td>
+                        <td>@item.UrunId</td>
+                        <td>@item.SiparisiVerenKisi</td>
+                        <td>@item.SiparisTarihi</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <!-- End Table -->
+
+    </div>
+    <!-- End Card -->
+</div>
+

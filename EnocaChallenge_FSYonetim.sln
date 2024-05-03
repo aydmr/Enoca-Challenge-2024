@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnocaChallenge_FSYonetim_API", "EnocaChallenge_FSYonetim\EnocaChallenge_FSYonetim_API.csproj", "{911DE8D9-60E6-466D-BFDF-24F05ED3A50B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1AAD0425-5ADD-4F9D-B476-AB2E8D51A289} = {1AAD0425-5ADD-4F9D-B476-AB2E8D51A289}
+		{B5C604C5-96AE-4344-B2EF-363FF984189E} = {B5C604C5-96AE-4344-B2EF-363FF984189E}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{1AAD0425-5ADD-4F9D-B476-AB2E8D51A289}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{B5C604C5-96AE-4344-B2EF-363FF984189E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1AAD0425-5ADD-4F9D-B476-AB2E8D51A289} = {1AAD0425-5ADD-4F9D-B476-AB2E8D51A289}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{CF81F7C0-E585-42CE-ABBB-6B66E8EF800D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnocaChallenge_FSYonetim_UI", "EnocaChallenge_FSYonetim_UI\EnocaChallenge_FSYonetim_UI.csproj", "{BC3C0FAD-732A-47AF-B20E-8C9D44E13D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911DE8D9-60E6-466D-BFDF-24F05ED3A50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911DE8D9-60E6-466D-BFDF-24F05ED3A50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911DE8D9-60E6-466D-BFDF-24F05ED3A50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911DE8D9-60E6-466D-BFDF-24F05ED3A50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AAD0425-5ADD-4F9D-B476-AB2E8D51A289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAD0425-5ADD-4F9D-B476-AB2E8D51A289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAD0425-5ADD-4F9D-B476-AB2E8D51A289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAD0425-5ADD-4F9D-B476-AB2E8D51A289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C604C5-96AE-4344-B2EF-363FF984189E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C604C5-96AE-4344-B2EF-363FF984189E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C604C5-96AE-4344-B2EF-363FF984189E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C604C5-96AE-4344-B2EF-363FF984189E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF81F7C0-E585-42CE-ABBB-6B66E8EF800D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF81F7C0-E585-42CE-ABBB-6B66E8EF800D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF81F7C0-E585-42CE-ABBB-6B66E8EF800D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF81F7C0-E585-42CE-ABBB-6B66E8EF800D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3C0FAD-732A-47AF-B20E-8C9D44E13D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3C0FAD-732A-47AF-B20E-8C9D44E13D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3C0FAD-732A-47AF-B20E-8C9D44E13D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3C0FAD-732A-47AF-B20E-8C9D44E13D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC03A67E-75E0-4ABF-B5D2-332D45336AFE}
+	EndGlobalSection
+EndGlobal

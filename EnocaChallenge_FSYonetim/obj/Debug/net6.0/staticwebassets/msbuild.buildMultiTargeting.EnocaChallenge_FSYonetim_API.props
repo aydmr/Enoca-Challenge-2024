@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EnocaChallenge_FSYonetim_API.props" />
+</Project>

@@ -1,0 +1,2249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnocaChallenge_FSYonetim_UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EnocaChallenge_FSYonetim_UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\css\\docs-dark.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\docs-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\css\\docs.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\docs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\css\\snippets.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\snippets.min.css"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\css\\theme-dark.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\160x160\\img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\160x160\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1618x1010\\Frame 1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1618x1010\\Frame 1.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1618x1010\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1618x1010\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1618x1010\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1618x1010\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1920x1080\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1920x1080\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1920x1080\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1920x1080\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1920x1080\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1920x1080\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1920x400\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1920x400\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\1920x400\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1920x400\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img22.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img23.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img24.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img25.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img26.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\400x400\\img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x400\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\415x310\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\415x310\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\415x310\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\415x310\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\600x200\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\600x200\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\600x200\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\600x200\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\725x1080\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\725x1080\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x400\\img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x400\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img1-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img1-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img10-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img10-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img11-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img11-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img12-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img12-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img13-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img13-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img2-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img2-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img3-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img3-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img4-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img4-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img5-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img5-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img7-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img7-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img8-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img8-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img9-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img9-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\900x562\\img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\900x562\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img1-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img1-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img2-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img2-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img3-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img3-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img4-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img4-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img5-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img5-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img6-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img6-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\documentation\\img9.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\documentation\\img9.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img1-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img1-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img2-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img2-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img2.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img3-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img3-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img3.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img4-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img4-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img4.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img5-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img5-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img5.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img6-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img6-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img6.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img7-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img7-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img7.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img8-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img8-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\img\\others\\img8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\img8.png"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\js\\hs.theme-appearance-charts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hs.theme-appearance-charts.js"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\js\\hs.theme-appearance.js",
+      "PackagePath": "staticwebassets\\assets\\js\\hs.theme-appearance.js"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\js\\theme-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\json\\docs-search.json",
+      "PackagePath": "staticwebassets\\assets\\json\\docs-search.json"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\json\\flags.json",
+      "PackagePath": "staticwebassets\\assets\\json\\flags.json"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\adobe-creative-cloud-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\adobe-creative-cloud-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\adobe-xd-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\adobe-xd-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\airbnb-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\airbnb-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\airbnb-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\airbnb-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\airbnb-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\airbnb-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\airbnb-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\airbnb-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\airbnb-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\airbnb-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\airbnb.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\airbnb.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\amazon-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\amazon-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\amazon-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\amazon-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\amazon-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\amazon-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\amazon-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\amazon-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\amazon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\amazon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\asana-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\asana-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\atlassian-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\atlassian-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\bank-of-america-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\bank-of-america-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\behance-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\behance-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\bookingcom-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\bookingcom-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\bootstrap-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\bootstrap-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\bootstrap-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\bootstrap-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\business-insider-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\business-insider-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\business-insider-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\business-insider-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\business-insider-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\business-insider-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\business-insider-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\business-insider-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\business-insider.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\business-insider.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\capsule-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\capsule-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\capsule-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\capsule-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\capsule-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\capsule-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\capsule-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\capsule-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\capsule-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\capsule-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\chrome-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\chrome-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\digitalocean-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\digitalocean-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\dribbble-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\dribbble-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\dropbox-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\dropbox-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\embark-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\embark-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\embark-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\embark-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\embark-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\embark-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\embark-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\embark-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\excel-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\excel-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\facebook-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\facebook-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\figma-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\figma-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\fitbit-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\fitbit-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\fitbit-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\fitbit-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\fitbit-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\fitbit-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\fitbit-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\fitbit-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\fitbit.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\fitbit.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\flow-xo-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\flow-xo-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\forbes-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\forbes-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\forbes-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\forbes-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\forbes-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\forbes-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\forbes-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\forbes-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\forbes.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\forbes.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\front.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\front.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\frontapp-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\frontapp-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\github-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\github-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\gitlab-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\gitlab-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\gitlab-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\gitlab-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\gmail-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\gmail-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-adz-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-adz-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-docs-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-docs-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-drive-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-drive-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-sheets-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-sheets-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-shopping-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-shopping-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-slides-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-slides-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-webdev-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-webdev-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\guideline-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\guideline-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\gulp-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\gulp-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\hollister-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\hollister-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\htmlstream.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\htmlstream.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\hubspot-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\hubspot-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\hubspot-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\hubspot-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\hubspot-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\hubspot-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\hubspot-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\hubspot-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\hubspot.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\hubspot.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\invision-studio-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\invision-studio-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\jira-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\jira-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\kaplan-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\kaplan-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\kaplan-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\kaplan-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\kaplan-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\kaplan-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\kaplan-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\kaplan-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\layar-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\layar-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\layar-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\layar-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\layar-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\layar-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\layar-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\layar-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\layar.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\layar.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\levis-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\levis-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mailchimp-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mailchimp-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mailchimp-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mailchimp-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mailchimp-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mailchimp-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mailchimp-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mailchimp-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mailchimp-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mailchimp-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mailchimp.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mailchimp.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\map-pin.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\map-pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mapbox-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mapbox-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mapbox.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mapbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\mudbox-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\mudbox-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\new-balance-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\new-balance-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\nike-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\nike-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\npm-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\npm-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\paypal-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\paypal-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\pdf-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\pdf-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\prosperops-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\prosperops-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\puma-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\puma-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\sass-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\sass-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\sentry-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\sentry-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\shape-7.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\shape-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\shopify-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\shopify-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\shopify-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\shopify-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\shopify-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\shopify-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\shopify-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\shopify-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\shopify-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\shopify-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\shopify.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\shopify.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\slack-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\slack-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\snapchat-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\snapchat-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\spec-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\spec-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\spotify-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\spotify-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\the-ocean-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\the-ocean-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\the-university-of-manchester.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\the-university-of-manchester.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\tnf-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\tnf-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\twilio-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\twilio-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\twitter-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\twitter-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\vidados-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\vidados-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\vidados-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\vidados-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\vidados-primary.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\vidados-primary.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\vidados-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\vidados-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\vidados.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\vidados.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\weave-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\weave-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\brands\\word-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\brands\\word-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-1.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-2.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-3.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-4.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-5.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-6.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-7.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\card-8.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\card-8.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\map-pin.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\map-pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\placeholder-csv-format.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\placeholder-csv-format.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\placeholder-img-format.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\placeholder-img-format.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\popover-bottom.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\popover-bottom.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\popover-left.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\popover-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\popover-right.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\popover-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\components\\popover-top.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\components\\popover-top.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-accordion.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-accordion.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-add-field.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-add-field.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-alerts.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-alerts.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-avatars.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-avatars.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-badge.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-badge.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-basic-forms.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-basic-forms.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-breadcrumb.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-breadcrumb.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-bs-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-bs-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-buttons.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-buttons.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-calendar.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-cards.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-cards.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-chartjs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-chartjs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-checks-and-switches.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-checks-and-switches.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-circles.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-circles.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-collapse.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-collapse.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-column-divider.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-column-divider.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-copy-to-clipboard.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-copy-to-clipboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-count-characters.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-count-characters.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-countdown.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-countdown.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-counter.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-counter.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-datatables.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-datatables.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-datepicker.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-datepicker.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-daterangepicker.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-daterangepicker.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-divider.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-divider.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-dropdowns.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-dropdowns.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-dropzone.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-dropzone.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-file-attachments.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-file-attachments.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-form-search.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-form-search.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-fslightbox.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-fslightbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-go-to.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-go-to.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-google-recaptcha.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-google-recaptcha.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-illustrations.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-illustrations.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-input-group.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-input-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-input-mask.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-input-mask.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-legend-indicator.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-legend-indicator.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-list-group.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-list-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-lists.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-lists.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-maps.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-maps.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-mega-menu.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-mega-menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-modal.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-modal.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-navbar-vertical-aside.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-navbar-vertical-aside.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-navbar.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-navbar.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-navs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-navs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-offcanvas.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-offcanvas.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-page-header.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-page-header.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-pagination.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-pagination.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-popovers.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-popovers.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-progress.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-progress.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-quantity-counter.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-quantity-counter.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-quill.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-quill.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-range-slider.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-range-slider.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-scrollspy.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-scrollspy.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-select.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-select.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-shapes.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-shapes.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-show-animation.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-show-animation.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-sliding-img.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-sliding-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-sortablejs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-sortablejs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-sorting.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-sorting.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-spinners.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-spinners.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-step-forms.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-step-forms.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-steps.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-steps.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-sticky-block.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-sticky-block.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-swiper.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-swiper.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-switch.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-switch.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-tab.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-tables-sticky-header.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-tables-sticky-header.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-tables.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-tables.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-text-highlight.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-text-highlight.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-toasts.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-toasts.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-toggle-password.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-toggle-password.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-toggle-state.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-toggle-state.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-toggle-switch.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-toggle-switch.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-tooltips.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-tooltips.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-typedjs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-typedjs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-typography.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-typography.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-video-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-video-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system-light\\docs-video-player.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system-light\\docs-video-player.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\design-system.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\design-system.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-accordion.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-accordion.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-add-field.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-add-field.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-alerts.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-alerts.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-avatars.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-avatars.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-badge.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-badge.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-basic-forms.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-basic-forms.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-breadcrumb.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-breadcrumb.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-bs-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-bs-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-buttons.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-buttons.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-calendar.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-cards.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-cards.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-chartjs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-chartjs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-checks-and-switches.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-checks-and-switches.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-circles.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-circles.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-collapse.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-collapse.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-column-divider.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-column-divider.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-copy-to-clipboard.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-copy-to-clipboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-count-characters.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-count-characters.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-countdown.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-countdown.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-counter.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-counter.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-datatables.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-datatables.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-datepicker.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-datepicker.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-daterangepicker.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-daterangepicker.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-divider.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-divider.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-dropdowns.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-dropdowns.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-dropzone.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-dropzone.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-file-attachments.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-file-attachments.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-form-search.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-form-search.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-fslightbox.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-fslightbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-go-to.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-go-to.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-google-recaptcha.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-google-recaptcha.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-illustrations.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-illustrations.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-input-group.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-input-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-input-mask.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-input-mask.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-legend-indicator.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-legend-indicator.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-list-group.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-list-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-lists.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-lists.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-maps.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-maps.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-mega-menu.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-mega-menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-modal.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-modal.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-navbar-vertical-aside.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-navbar-vertical-aside.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-navbar.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-navbar.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-navs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-navs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-offcanvas.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-offcanvas.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-page-header.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-page-header.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-pagination.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-pagination.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-popovers.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-popovers.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-progress.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-progress.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-quantity-counter.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-quantity-counter.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-quill.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-quill.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-range-slider.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-range-slider.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-scrollspy.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-scrollspy.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-select.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-select.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-shapes.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-shapes.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-show-animation.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-show-animation.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-sliding-img.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-sliding-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-sortablejs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-sortablejs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-sorting.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-sorting.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-spinners.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-spinners.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-step-forms.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-step-forms.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-steps.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-steps.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-sticky-block.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-sticky-block.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-swiper.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-swiper.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-switch.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-switch.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-tab.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-tables-sticky-header.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-tables-sticky-header.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-tables.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-tables.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-text-highlight.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-text-highlight.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-toasts.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-toasts.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-toggle-password.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-toggle-password.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-toggle-state.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-toggle-state.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-toggle-switch.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-toggle-switch.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-tooltips.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-tooltips.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-typedjs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-typedjs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-typography.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-typography.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-video-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-video-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\design-system\\docs-video-player.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\design-system\\docs-video-player.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-add-card.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-add-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-address.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-address.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-browse-file.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-browse-file.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-browse.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-browse.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-chatting.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-chatting.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-collaboration.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-collaboration.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-collection.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-collection.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-discount.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-discount.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-email-at.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-email-at.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-email-verification.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-email-verification.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-empty-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-empty-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-error.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-error.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-globe.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-globe.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-growing.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-growing.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-hi-five.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-hi-five.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-leaving-review.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-leaving-review.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-looking-for-answers.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-looking-for-answers.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-lost.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-lost.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-maintenance.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-megaphone.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-megaphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-money-profits.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-money-profits.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-on-the-go.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-on-the-go.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-peeking.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-peeking.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-person-1.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-person-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-person-2.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-person-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-person-3.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-person-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-phone.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-phone.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-project-development.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-project-development.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-referrals.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-referrals.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-review.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-review.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-thinking.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-thinking.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-to-do.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-to-do.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-unlock.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-unlock.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\oc-yelling.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\oc-yelling.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\star-half.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\star-half.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations-light\\star-muted.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations-light\\star-muted.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\copy-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\copy-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\docs-main-page-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\docs-main-page-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\docs-main-page.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\docs-main-page.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-add-card.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-add-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-address.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-address.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-at.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-at.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-browse-file.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-browse-file.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-browse.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-browse.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-chatting.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-chatting.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-collaboration.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-collaboration.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-collection.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-collection.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-discount.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-discount.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-email-at.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-email-at.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-email-verification.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-email-verification.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-empty-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-empty-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-error.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-error.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-globe.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-globe.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-growing.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-growing.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-hi-five.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-hi-five.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-looking-for-answers.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-looking-for-answers.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-lost.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-lost.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-maintenance.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-megaphone.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-megaphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-money-profits.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-money-profits.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-on-the-go.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-on-the-go.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-peeking.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-peeking.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-person-1.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-person-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-person-2.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-person-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-person-3.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-person-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-phone.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-phone.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-project-development.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-project-development.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-referrals.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-referrals.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-review.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-review.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-thinking.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-thinking.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-to-do.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-to-do.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-unlock.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-unlock.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\oc-yelling.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\oc-yelling.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\print-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\print-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\project-schedule-light.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\project-schedule-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\project-schedule.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\project-schedule.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\review-rating-shield.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\review-rating-shield.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\star-half.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\star-half.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\star-muted.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\star-muted.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\illustrations\\thinking.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\illustrations\\thinking.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\content-combinations-container-overlay.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\content-combinations-container-overlay.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\content-combinations-content-centered.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\content-combinations-content-centered.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\content-combinations-overlay.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\content-combinations-overlay.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\demo-layouts-default-classic.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\demo-layouts-default-classic.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\demo-layouts-nav-tabs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\demo-layouts-nav-tabs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\footer-default-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\footer-default-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\header-default-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\header-default-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\header-double-line-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\header-double-line-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-combinations-mini-plus-one-cols.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-combinations-mini-plus-one-cols.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-combinations-two-cols-between.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-combinations-two-cols-between.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-combinations-two-cols.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-combinations-two-cols.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-combinations-two-plus-mini-cols.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-combinations-two-plus-mini-cols.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-compact.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-compact.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-default-classic.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-default-classic.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-default.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-default.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-detached-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-detached-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-detached-overlay-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-detached-overlay-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-light.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts-light\\sidebar-mini.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts-light\\sidebar-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\content-combinations-container-overlay.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\content-combinations-container-overlay.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\content-combinations-content-centered.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\content-combinations-content-centered.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\content-combinations-overlay.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\content-combinations-overlay.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\demo-layouts-default-classic.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\demo-layouts-default-classic.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\demo-layouts-nav-tabs.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\demo-layouts-nav-tabs.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\footer-default-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\footer-default-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\header-default-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\header-default-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\header-default-containers.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\header-default-containers.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\header-double-line-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\header-double-line-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\layout-light.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\layout-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-combinations-mini-plus-one-cols.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-combinations-mini-plus-one-cols.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-combinations-two-cols-between.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-combinations-two-cols-between.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-combinations-two-cols.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-combinations-two-cols.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-combinations-two-plus-mini-cols.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-combinations-two-plus-mini-cols.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-compact.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-compact.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-default-classic.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-default-classic.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-default.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-default.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-detached-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-detached-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-detached-overlay-container.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-detached-overlay-container.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-light.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\layouts\\sidebar-mini.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\layouts\\sidebar-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos-light\\logo-short.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos-light\\logo-short.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos-light\\logo-vertical.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos-light\\logo-vertical.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos-light\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos-light\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos\\logo-short-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos\\logo-short-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos\\logo-short.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos\\logo-short.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos\\logo-vertical-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos\\logo-vertical-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos\\logo-vertical.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos\\logo-vertical.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\assets\\svg\\logos\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\svg\\logos\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\celal\\source\\repos\\EnocaChallenge_FSYonetim\\EnocaChallenge_FSYonetim_UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EnocaChallenge_FSYonetim_UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EnocaChallenge_FSYonetim_UI.props",
+      "PackagePath": "build\\EnocaChallenge_FSYonetim_UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EnocaChallenge_FSYonetim_UI.props",
+      "PackagePath": "buildMultiTargeting\\EnocaChallenge_FSYonetim_UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EnocaChallenge_FSYonetim_UI.props",
+      "PackagePath": "buildTransitive\\EnocaChallenge_FSYonetim_UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
